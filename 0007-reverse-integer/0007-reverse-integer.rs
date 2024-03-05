@@ -1,17 +1,24 @@
 impl Solution {
     pub fn reverse(x: i32) -> i32 {
-        let ans = x.abs()
-            .to_string()
+        let mut ans = String::new();
+        let mut sb = x.to_string()
             .chars()
-            .rev()
-            .collect::<String>()
-            .parse::<i32>()
-            .unwrap_or(0);
+            .collect::<Vec<char>>();
+        let sign = sb[0] as char;
 
-        if x < 0 {
-            return ans * -1;
+        if sign == '-' {
+            ans.push('-');
+            sb.remove(0);
         }
 
-        ans
+        ans.push_str(
+            sb.iter()
+                .rev()
+                .map(|&c| c as char)
+                .collect::<String>()
+                .as_str()
+            );
+
+        ans.parse::<i32>().unwrap_or(0)
     }
 }
