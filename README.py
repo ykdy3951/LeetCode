@@ -60,7 +60,7 @@ def create_readme():
                         print(f"Unknown file type: {file}")
                 
                 # Write to README.md
-                f.write(f"| {title_number} | [{title}]({problem_url}) | {', '.join(solutions)} | {difficulty} |\n")
+                f.write(f"| {title_number} | [{title}]({problem_url}) | {', '.join(sorted(solutions))} | {difficulty} |\n")
                 
 
 
