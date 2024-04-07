@@ -4,7 +4,7 @@ Collection of LeetCode questions to ace the coding interview!
 ## Table of Contents
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Rust](./0001-two-sum/0001-two-sum.rs) | Easy |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Python](./0001-two-sum/0001-two-sum.py), [Rust](./0001-two-sum/0001-two-sum.rs) | Easy |
 | 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Rust](./0002-add-two-numbers/0002-add-two-numbers.rs) | Medium |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Rust](./0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.rs) | Medium |
 | 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Rust](./0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.rs) | Hard |
