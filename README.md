@@ -1,2 +1,65 @@
 # LeetCode
 Collection of LeetCode questions to ace the coding interview!
+
+## Table of Contents
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+| 1 | [Two Sum](https://leetcode.com/problems/two-sum) | [Rust](./0001-two-sum/0001-two-sum.rs) | Easy |
+| 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers) | [Rust](./0002-add-two-numbers/0002-add-two-numbers.rs) | Medium |
+| 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters) | [Rust](./0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.rs) | Medium |
+| 4 | [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | [Rust](./0004-median-of-two-sorted-arrays/0004-median-of-two-sorted-arrays.rs) | Hard |
+| 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring) | [Rust](./0005-longest-palindromic-substring/0005-longest-palindromic-substring.rs) | Medium |
+| 6 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion) | [Rust](./0006-zigzag-conversion/0006-zigzag-conversion.rs) | Medium |
+| 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer) | [Rust](./0007-reverse-integer/0007-reverse-integer.rs) | Medium |
+| 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi) | [Rust](./0008-string-to-integer-atoi/0008-string-to-integer-atoi.rs) | Medium |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | [Rust](./0009-palindrome-number/0009-palindrome-number.rs) | Easy |
+| 10 | [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching) | [Python](./0010-regular-expression-matching/0010-regular-expression-matching.py) | Hard |
+| 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | [Rust](./0011-container-with-most-water/0011-container-with-most-water.rs) | Medium |
+| 12 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | [Rust](./0012-integer-to-roman/0012-integer-to-roman.rs) | Medium |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | [Rust](./0013-roman-to-integer/0013-roman-to-integer.rs) | Easy |
+| 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix) | [Rust](./0014-longest-common-prefix/0014-longest-common-prefix.rs) | Easy |
+| 15 | [3Sum](https://leetcode.com/problems/3sum) | [Rust](./0015-3sum/0015-3sum.rs) | Medium |
+| 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest) | [Rust](./0016-3sum-closest/0016-3sum-closest.rs) | Medium |
+| 17 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number) | [Python](./0017-letter-combinations-of-a-phone-number/0017-letter-combinations-of-a-phone-number.py) | Medium |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Rust](./0020-valid-parentheses/0020-valid-parentheses.rs) | Easy |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Rust](./0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.rs) | Easy |
+| 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python](./0022-generate-parentheses/0022-generate-parentheses.py) | Medium |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Python](./0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.py) | Medium |
+| 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Rust](./0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.rs) | Easy |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Rust](./0027-remove-element/0027-remove-element.rs) | Easy |
+| 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [Rust](./0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.rs) | Easy |
+| 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | [Python](./0029-divide-two-integers/0029-divide-two-integers.py) | Medium |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Rust](./0035-search-insert-position/0035-search-insert-position.rs) | Easy |
+| 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [Rust](./0058-length-of-last-word/0058-length-of-last-word.rs) | Easy |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Rust](./0066-plus-one/0066-plus-one.rs) | Easy |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Rust](./0067-add-binary/0067-add-binary.rs) | Easy |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Rust](./0069-sqrtx/0069-sqrtx.rs) | Easy |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Rust](./0070-climbing-stairs/0070-climbing-stairs.rs) | Easy |
+| 71 | [Simplify Path](https://leetcode.com/problems/simplify-path) | [Python](./0071-simplify-path/0071-simplify-path.py) | Medium |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Rust](./0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.rs) | Easy |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Rust](./0088-merge-sorted-array/0088-merge-sorted-array.rs) | Easy |
+| 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Rust](./0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.rs) | Easy |
+| 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [Rust](./0119-pascals-triangle-ii/0119-pascals-triangle-ii.rs) | Easy |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Python](./0141-linked-list-cycle/0141-linked-list-cycle.py) | Easy |
+| 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Rust](./0169-majority-element/0169-majority-element.rs) | Easy |
+| 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Rust](./0191-number-of-1-bits/0191-number-of-1-bits.rs) | Easy |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | [Rust](./0231-power-of-two/0231-power-of-two.rs) | Easy |
+| 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Rust](./0238-product-of-array-except-self/0238-product-of-array-except-self.rs) | Medium |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Rust](./0268-missing-number/0268-missing-number.rs) | Easy |
+| 342 | [Power of Four](https://leetcode.com/problems/power-of-four) | [Rust](./0342-power-of-four/0342-power-of-four.rs) | Easy |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Rust](./0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.rs) | Easy |
+| 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [Rust](./0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.rs) | Medium |
+| 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | [Rust](./0621-task-scheduler/0621-task-scheduler.rs) | Medium |
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Rust](./0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.rs) | Easy |
+| 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | [Rust](./0791-custom-sort-string/0791-custom-sort-string.rs) | Medium |
+| 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Rust](./0844-backspace-string-compare/0844-backspace-string-compare.rs) | Easy |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Rust](./0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.rs) | Easy |
+| 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum) | [Rust](./0930-binary-subarrays-with-sum/0930-binary-subarrays-with-sum.rs) | Medium |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | [Rust](./0977-squares-of-a-sorted-array/0977-squares-of-a-sorted-array.rs) | Easy |
+| 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | [Rust](./1171-remove-zero-sum-consecutive-nodes-from-linked-list/1171-remove-zero-sum-consecutive-nodes-from-linked-list.rs) | Medium |
+| 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | [Rust](./1356-sort-integers-by-the-number-of-1-bits/1356-sort-integers-by-the-number-of-1-bits.rs) | Easy |
+| 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [Rust](./1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.rs) | Easy |
+| 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer) | [Rust](./2485-find-the-pivot-integer/2485-find-the-pivot-integer.rs) | Easy |
+| 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | [Rust](./2540-minimum-common-value/2540-minimum-common-value.rs) | Easy |
+| 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number) | [Rust](./2864-maximum-odd-binary-number/2864-maximum-odd-binary-number.rs) | Easy |
+| 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [Rust](./3005-count-elements-with-maximum-frequency/3005-count-elements-with-maximum-frequency.rs) | Easy |
