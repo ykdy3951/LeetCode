@@ -22,7 +22,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install beautifulsoup4
           
-      - name: Run Python script (Update README.md)
+      - name: Run Python script
         run: python README.py
         
       - name: Commit and push changes
