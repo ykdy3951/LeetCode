@@ -18,12 +18,12 @@ def create_readme():
         # Sort the files
         folders.sort()
         # Remove unwanted files
-        for folder in folders:
+        for folder in folders.copy():
             if folder.startswith("."):
                 folders.remove(folder)
             if os.path.isfile(folder):
                 folders.remove(folder)
-
+    
         for folder in folders:
             # Get the folder name
             files = os.listdir(folder)
