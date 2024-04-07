@@ -18,10 +18,12 @@ def create_readme():
         # Sort the files
         folders.sort()
         # Remove unwanted files
-        folders.remove(".git")
-        folders.remove("README.md")
-        folders.remove("run.py")
-        folders.remove("practice")
+        for folder in folders:
+            if folder.startswith("."):
+                folders.remove(folder)
+            if os.path.isfile(folder):
+                folders.remove(folder)
+
         for folder in folders:
             # Get the folder name
             files = os.listdir(folder)
