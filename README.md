@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Rust](./0027-remove-element/0027-remove-element.rs) | Easy |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [Rust](./0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.rs) | Easy |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | [Python](./0029-divide-two-integers/0029-divide-two-integers.py) | Medium |
+| 31 | [Next Permutation](https://leetcode.com/problems/next-permutation) | [Python](./0031-next-permutation/0031-next-permutation.py) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Rust](./0035-search-insert-position/0035-search-insert-position.rs) | Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [Rust](./0058-length-of-last-word/0058-length-of-last-word.rs) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Rust](./0066-plus-one/0066-plus-one.rs) | Easy |
