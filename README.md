@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | [Rust](./0020-valid-parentheses/0020-valid-parentheses.rs) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists) | [Rust](./0021-merge-two-sorted-lists/0021-merge-two-sorted-lists.rs) | Easy |
 | 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | [Python](./0022-generate-parentheses/0022-generate-parentheses.py) | Medium |
+| 23 | [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists) | [Python](./0023-merge-k-sorted-lists/0023-merge-k-sorted-lists.py) | Hard |
 | 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs) | [Python](./0024-swap-nodes-in-pairs/0024-swap-nodes-in-pairs.py) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | [Rust](./0026-remove-duplicates-from-sorted-array/0026-remove-duplicates-from-sorted-array.rs) | Easy |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element) | [Rust](./0027-remove-element/0027-remove-element.rs) | Easy |
