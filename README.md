@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | [Python](./0029-divide-two-integers/0029-divide-two-integers.py) | Medium |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation) | [Python](./0031-next-permutation/0031-next-permutation.py) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Rust](./0035-search-insert-position/0035-search-insert-position.rs) | Easy |
+| 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [Python](./0050-powx-n/0050-powx-n.py) | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [Rust](./0058-length-of-last-word/0058-length-of-last-word.rs) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Rust](./0066-plus-one/0066-plus-one.rs) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Rust](./0067-add-binary/0067-add-binary.rs) | Easy |
