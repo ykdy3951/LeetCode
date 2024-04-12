@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Rust](./0035-search-insert-position/0035-search-insert-position.rs) | Easy |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [Python](./0050-powx-n/0050-powx-n.py) | Medium |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens) | [Python](./0051-n-queens/0051-n-queens.py) | Hard |
+| 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [Python](./0052-n-queens-ii/0052-n-queens-ii.py) | Hard |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [Rust](./0058-length-of-last-word/0058-length-of-last-word.rs) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Rust](./0066-plus-one/0066-plus-one.rs) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Rust](./0067-add-binary/0067-add-binary.rs) | Easy |
