@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Rust](./0088-merge-sorted-array/0088-merge-sorted-array.rs) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Rust](./0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.rs) | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [Python](./0104-maximum-depth-of-binary-tree/0104-maximum-depth-of-binary-tree.py) | Easy |
+| 108 | [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree) | [Python](./0108-convert-sorted-array-to-binary-search-tree/0108-convert-sorted-array-to-binary-search-tree.py) | Easy |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [Rust](./0119-pascals-triangle-ii/0119-pascals-triangle-ii.rs) | Easy |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Python](./0141-linked-list-cycle/0141-linked-list-cycle.py) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Rust](./0169-majority-element/0169-majority-element.rs) | Easy |
