@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Rust](./0069-sqrtx/0069-sqrtx.rs) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Rust](./0070-climbing-stairs/0070-climbing-stairs.rs) | Easy |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path) | [Python](./0071-simplify-path/0071-simplify-path.py) | Medium |
+| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Rust](./0080-remove-duplicates-from-sorted-array-ii/0080-remove-duplicates-from-sorted-array-ii.rs) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Rust](./0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.rs) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Rust](./0088-merge-sorted-array/0088-merge-sorted-array.rs) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Rust](./0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.rs) | Easy |
