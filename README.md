@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | [Rust](./0028-find-the-index-of-the-first-occurrence-in-a-string/0028-find-the-index-of-the-first-occurrence-in-a-string.rs) | Easy |
 | 29 | [Divide Two Integers](https://leetcode.com/problems/divide-two-integers) | [Python](./0029-divide-two-integers/0029-divide-two-integers.py) | Medium |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation) | [Python](./0031-next-permutation/0031-next-permutation.py) | Medium |
+| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Python](./0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.py) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Rust](./0035-search-insert-position/0035-search-insert-position.rs) | Easy |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [Python](./0050-powx-n/0050-powx-n.py) | Medium |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens) | [Python](./0051-n-queens/0051-n-queens.py) | Hard |
