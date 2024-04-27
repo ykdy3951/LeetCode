@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation) | [Python](./0031-next-permutation/0031-next-permutation.py) | Medium |
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Python](./0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.py) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Rust](./0035-search-insert-position/0035-search-insert-position.rs) | Easy |
+| 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [Rust](./0036-valid-sudoku/0036-valid-sudoku.rs) | Medium |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [Python](./0050-powx-n/0050-powx-n.py) | Medium |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens) | [Python](./0051-n-queens/0051-n-queens.py) | Hard |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [Python](./0052-n-queens-ii/0052-n-queens-ii.py) | Hard |
