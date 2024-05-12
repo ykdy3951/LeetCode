@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | [Rust](./1171-remove-zero-sum-consecutive-nodes-from-linked-list/1171-remove-zero-sum-consecutive-nodes-from-linked-list.rs) | Medium |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | [Rust](./1356-sort-integers-by-the-number-of-1-bits/1356-sort-integers-by-the-number-of-1-bits.rs) | Easy |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [Rust](./1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.rs) | Easy |
+| 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix) | [Python](./2373-largest-local-values-in-a-matrix/2373-largest-local-values-in-a-matrix.py) | Easy |
 | 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer) | [Rust](./2485-find-the-pivot-integer/2485-find-the-pivot-integer.rs) | Easy |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | [Rust](./2540-minimum-common-value/2540-minimum-common-value.rs) | Easy |
 | 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number) | [Rust](./2864-maximum-odd-binary-number/2864-maximum-odd-binary-number.rs) | Easy |
