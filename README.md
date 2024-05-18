@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](./0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.py) | Medium |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Python](./0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.py) | Easy |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Python](./0145-binary-tree-postorder-traversal/0145-binary-tree-postorder-traversal.py) | Easy |
+| 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./0146-lru-cache/0146-lru-cache.py) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Rust](./0169-majority-element/0169-majority-element.rs) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Rust](./0191-number-of-1-bits/0191-number-of-1-bits.rs) | Easy |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | [Rust](./0231-power-of-two/0231-power-of-two.rs) | Easy |
