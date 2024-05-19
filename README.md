@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./0118-pascals-triangle/0118-pascals-triangle.py) | Easy |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [Rust](./0119-pascals-triangle-ii/0119-pascals-triangle-ii.rs) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | [Python](./0136-single-number/0136-single-number.py) | Easy |
+| 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python](./0137-single-number-ii/0137-single-number-ii.py) | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Python](./0141-linked-list-cycle/0141-linked-list-cycle.py) | Easy |
 | 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](./0142-linked-list-cycle-ii/0142-linked-list-cycle-ii.py) | Medium |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Python](./0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.py) | Easy |
