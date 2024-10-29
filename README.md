@@ -77,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | [Rust](./0621-task-scheduler/0621-task-scheduler.rs) | Medium |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Rust](./0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.rs) | Easy |
 | 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | [Rust](./0791-custom-sort-string/0791-custom-sort-string.rs) | Medium |
+| 827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island) | [Python](./0827-making-a-large-island/0827-making-a-large-island.py) | Hard |
 | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare) | [Rust](./0844-backspace-string-compare/0844-backspace-string-compare.rs) | Easy |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | [Rust](./0876-middle-of-the-linked-list/0876-middle-of-the-linked-list.rs) | Easy |
 | 930 | [Binary Subarrays With Sum](https://leetcode.com/problems/binary-subarrays-with-sum) | [Rust](./0930-binary-subarrays-with-sum/0930-binary-subarrays-with-sum.rs) | Medium |
