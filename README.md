@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./0146-lru-cache/0146-lru-cache.py) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Rust](./0169-majority-element/0169-majority-element.rs) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Rust](./0191-number-of-1-bits/0191-number-of-1-bits.rs) | Easy |
+| 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | [Python](./0210-course-schedule-ii/0210-course-schedule-ii.py) | Medium |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | [Rust](./0231-power-of-two/0231-power-of-two.rs) | Easy |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Rust](./0238-product-of-array-except-self/0238-product-of-array-except-self.rs) | Medium |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Rust](./0268-missing-number/0268-missing-number.rs) | Easy |
