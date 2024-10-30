@@ -90,3 +90,4 @@ Collection of LeetCode questions to ace the coding interview!
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | [Rust](./2540-minimum-common-value/2540-minimum-common-value.rs) | Easy |
 | 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number) | [Rust](./2864-maximum-odd-binary-number/2864-maximum-odd-binary-number.rs) | Easy |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [Rust](./3005-count-elements-with-maximum-frequency/3005-count-elements-with-maximum-frequency.rs) | Easy |
+| 3235 | [Check if the Rectangle Corner Is Reachable](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable) | [Python](./3235-check-if-the-rectangle-corner-is-reachable/3235-check-if-the-rectangle-corner-is-reachable.py) | Hard |
