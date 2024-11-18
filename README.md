@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [Python](./0052-n-queens-ii/0052-n-queens-ii.py) | Hard |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | [Rust](./0053-maximum-subarray/0053-maximum-subarray.rs) | Medium |
 | 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [Python](./0054-spiral-matrix/0054-spiral-matrix.py) | Medium |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game) | [Python](./0055-jump-game/0055-jump-game.py) | Medium |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [Rust](./0058-length-of-last-word/0058-length-of-last-word.rs) | Easy |
 | 65 | [Valid Number](https://leetcode.com/problems/valid-number) | [Python](./0065-valid-number/0065-valid-number.py) | Hard |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Rust](./0066-plus-one/0066-plus-one.rs) | Easy |
