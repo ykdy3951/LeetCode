@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal) | [Python](./0144-binary-tree-preorder-traversal/0144-binary-tree-preorder-traversal.py) | Easy |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal) | [Python](./0145-binary-tree-postorder-traversal/0145-binary-tree-postorder-traversal.py) | Easy |
 | 146 | [LRU Cache](https://leetcode.com/problems/lru-cache/) | [Python](./0146-lru-cache/0146-lru-cache.py) | Medium |
+| 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Python](./0149-max-points-on-a-line/0149-max-points-on-a-line.py) | Hard |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | [Python](./0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py) | Medium |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Rust](./0169-majority-element/0169-majority-element.rs) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Rust](./0191-number-of-1-bits/0191-number-of-1-bits.rs) | Easy |
