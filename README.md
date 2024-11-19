@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Rust](./0035-search-insert-position/0035-search-insert-position.rs) | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [Rust](./0036-valid-sudoku/0036-valid-sudoku.rs) | Medium |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say) | [Python](./0038-count-and-say/0038-count-and-say.py) | Medium |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Python](./0039-combination-sum/0039-combination-sum.py) | Medium |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [Rust](./0045-jump-game-ii/0045-jump-game-ii.rs) | Medium |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [Python](./0050-powx-n/0050-powx-n.py) | Medium |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens) | [Python](./0051-n-queens/0051-n-queens.py) | Hard |
