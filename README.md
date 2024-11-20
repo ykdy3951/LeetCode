@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 46 | [Permutations](https://leetcode.com/problems/permutations) | [Python](./0046-permutations/0046-permutations.py) | Medium |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [Python](./0047-permutations-ii/0047-permutations-ii.py) | Medium |
 | 48 | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Python](./0048-rotate-image/0048-rotate-image.py) | Medium |
+| 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams) | [Python](./0049-group-anagrams/0049-group-anagrams.py) | Medium |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [Python](./0050-powx-n/0050-powx-n.py) | Medium |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens) | [Python](./0051-n-queens/0051-n-queens.py) | Hard |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [Python](./0052-n-queens-ii/0052-n-queens-ii.py) | Hard |
