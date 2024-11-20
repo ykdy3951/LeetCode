@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | [Rust](./0058-length-of-last-word/0058-length-of-last-word.rs) | Easy |
 | 59 | [Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii) | [Python](./0059-spiral-matrix-ii/0059-spiral-matrix-ii.py) | Medium |
 | 61 | [Rotate List](https://leetcode.com/problems/rotate-list) | [Python](./0061-rotate-list/0061-rotate-list.py) | Medium |
+| 62 | [Unique Paths](https://leetcode.com/problems/unique-paths) | [Python](./0062-unique-paths/0062-unique-paths.py) | Medium |
 | 65 | [Valid Number](https://leetcode.com/problems/valid-number) | [Python](./0065-valid-number/0065-valid-number.py) | Hard |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Rust](./0066-plus-one/0066-plus-one.rs) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Rust](./0067-add-binary/0067-add-binary.rs) | Easy |
