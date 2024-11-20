@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [Python](./0040-combination-sum-ii/0040-combination-sum-ii.py) | Medium |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python](./0043-multiply-strings/0043-multiply-strings.py) | Medium |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [Rust](./0045-jump-game-ii/0045-jump-game-ii.rs) | Medium |
+| 46 | [Permutations](https://leetcode.com/problems/permutations) | [Python](./0046-permutations/0046-permutations.py) | Medium |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | [Python](./0050-powx-n/0050-powx-n.py) | Medium |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens) | [Python](./0051-n-queens/0051-n-queens.py) | Hard |
 | 52 | [N-Queens II](https://leetcode.com/problems/n-queens-ii) | [Python](./0052-n-queens-ii/0052-n-queens-ii.py) | Hard |
