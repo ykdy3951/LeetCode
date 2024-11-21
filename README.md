@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 81 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | [Python](./0081-search-in-rotated-sorted-array-ii/0081-search-in-rotated-sorted-array-ii.py) | Medium |
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii) | [Python](./0082-remove-duplicates-from-sorted-list-ii/0082-remove-duplicates-from-sorted-list-ii.py) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Rust](./0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.rs) | Easy |
+| 86 | [Partition List](https://leetcode.com/problems/partition-list) | [Python](./0086-partition-list/0086-partition-list.py) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Rust](./0088-merge-sorted-array/0088-merge-sorted-array.rs) | Easy |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Rust](./0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.rs) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | [Python](./0100-same-tree/0100-same-tree.py) | Easy |
