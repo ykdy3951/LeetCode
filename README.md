@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path) | [Python](./0071-simplify-path/0071-simplify-path.py) | Medium |
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance) | [Python](./0072-edit-distance/0072-edit-distance.py) | Medium |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | [Python](./0073-set-matrix-zeroes/0073-set-matrix-zeroes.py) | Medium |
+| 79 | [Word Search](https://leetcode.com/problems/word-search) | [Python](./0079-word-search/0079-word-search.py) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | [Rust](./0080-remove-duplicates-from-sorted-array-ii/0080-remove-duplicates-from-sorted-array-ii.rs) | Medium |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Rust](./0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.rs) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Rust](./0088-merge-sorted-array/0088-merge-sorted-array.rs) | Easy |
