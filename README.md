@@ -74,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | [Rust](./0083-remove-duplicates-from-sorted-list/0083-remove-duplicates-from-sorted-list.rs) | Easy |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list) | [Python](./0086-partition-list/0086-partition-list.py) | Medium |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | [Rust](./0088-merge-sorted-array/0088-merge-sorted-array.rs) | Easy |
+| 89 | [Gray Code](https://leetcode.com/problems/gray-code) | [Python](./0089-gray-code/0089-gray-code.py) | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Rust](./0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.rs) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | [Python](./0100-same-tree/0100-same-tree.py) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Python](./0101-symmetric-tree/0101-symmetric-tree.py) | Easy |
