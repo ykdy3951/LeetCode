@@ -80,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 92 | [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii) | [Python](./0092-reverse-linked-list-ii/0092-reverse-linked-list-ii.py) | Medium |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [Rust](./0094-binary-tree-inorder-traversal/0094-binary-tree-inorder-traversal.rs) | Easy |
 | 95 | [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii) | [Python](./0095-unique-binary-search-trees-ii/0095-unique-binary-search-trees-ii.py) | Medium |
+| 96 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Python](./0096-unique-binary-search-trees/0096-unique-binary-search-trees.py) | Medium |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree) | [Python](./0100-same-tree/0100-same-tree.py) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree) | [Python](./0101-symmetric-tree/0101-symmetric-tree.py) | Easy |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal) | [Python](./0102-binary-tree-level-order-traversal/0102-binary-tree-level-order-traversal.py) | Medium |
