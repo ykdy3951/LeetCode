@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Rust](./0268-missing-number/0268-missing-number.rs) | Easy |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four) | [Rust](./0342-power-of-four/0342-power-of-four.rs) | Easy |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Rust](./0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.rs) | Easy |
+| 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii) | [Python](./0407-trapping-rain-water-ii/0407-trapping-rain-water-ii.py) | Hard |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [Rust](./0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.rs) | Medium |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | [Rust](./0621-task-scheduler/0621-task-scheduler.rs) | Medium |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Rust](./0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.rs) | Easy |
