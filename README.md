@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | [Python](./0034-find-first-and-last-position-of-element-in-sorted-array/0034-find-first-and-last-position-of-element-in-sorted-array.py) | Medium |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | [Rust](./0035-search-insert-position/0035-search-insert-position.rs) | Easy |
 | 36 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku) | [Rust](./0036-valid-sudoku/0036-valid-sudoku.rs) | Medium |
+| 37 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver) | [Python](./0037-sudoku-solver/0037-sudoku-solver.py) | Hard |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say) | [Python](./0038-count-and-say/0038-count-and-say.py) | Medium |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Python](./0039-combination-sum/0039-combination-sum.py) | Medium |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [Python](./0040-combination-sum-ii/0040-combination-sum-ii.py) | Medium |
