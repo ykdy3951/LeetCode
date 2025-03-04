@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Python](./0041-first-missing-positive/0041-first-missing-positive.py) | Hard |
 | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | [Python](./0042-trapping-rain-water/0042-trapping-rain-water.py) | Hard |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python](./0043-multiply-strings/0043-multiply-strings.py) | Medium |
+| 44 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | [Python](./0044-wildcard-matching/0044-wildcard-matching.py) | Hard |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [Rust](./0045-jump-game-ii/0045-jump-game-ii.rs) | Medium |
 | 46 | [Permutations](https://leetcode.com/problems/permutations) | [Python](./0046-permutations/0046-permutations.py) | Medium |
 | 47 | [Permutations II](https://leetcode.com/problems/permutations-ii) | [Python](./0047-permutations-ii/0047-permutations-ii.py) | Medium |
