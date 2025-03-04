@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say) | [Python](./0038-count-and-say/0038-count-and-say.py) | Medium |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum) | [Python](./0039-combination-sum/0039-combination-sum.py) | Medium |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | [Python](./0040-combination-sum-ii/0040-combination-sum-ii.py) | Medium |
+| 41 | [First Missing Positive](https://leetcode.com/problems/first-missing-positive) | [Python](./0041-first-missing-positive/0041-first-missing-positive.py) | Hard |
 | 43 | [Multiply Strings](https://leetcode.com/problems/multiply-strings/) | [Python](./0043-multiply-strings/0043-multiply-strings.py) | Medium |
 | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | [Rust](./0045-jump-game-ii/0045-jump-game-ii.rs) | Medium |
 | 46 | [Permutations](https://leetcode.com/problems/permutations) | [Python](./0046-permutations/0046-permutations.py) | Medium |
