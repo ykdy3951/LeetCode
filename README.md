@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 65 | [Valid Number](https://leetcode.com/problems/valid-number) | [Python](./0065-valid-number/0065-valid-number.py) | Hard |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one) | [Rust](./0066-plus-one/0066-plus-one.rs) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary) | [Rust](./0067-add-binary/0067-add-binary.rs) | Easy |
+| 68 | [Text Justification](https://leetcode.com/problems/text-justification) | [Python](./0068-text-justification/0068-text-justification.py) | Hard |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | [Rust](./0069-sqrtx/0069-sqrtx.rs) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | [Rust](./0070-climbing-stairs/0070-climbing-stairs.rs) | Easy |
 | 71 | [Simplify Path](https://leetcode.com/problems/simplify-path) | [Python](./0071-simplify-path/0071-simplify-path.py) | Medium |
