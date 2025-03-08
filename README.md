@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 148 | [Sort List](https://leetcode.com/problems/sort-list) | [Python](./0148-sort-list/0148-sort-list.py) | Medium |
 | 149 | [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/) | [Python](./0149-max-points-on-a-line/0149-max-points-on-a-line.py) | Hard |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation) | [Python](./0150-evaluate-reverse-polish-notation/0150-evaluate-reverse-polish-notation.py) | Medium |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists) | [Python](./0160-intersection-of-two-linked-lists/0160-intersection-of-two-linked-lists.py) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Rust](./0169-majority-element/0169-majority-element.rs) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Rust](./0191-number-of-1-bits/0191-number-of-1-bits.rs) | Easy |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | [Python](./0210-course-schedule-ii/0210-course-schedule-ii.py) | Medium |
