@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [SQL](./0182-duplicate-emails/0182-duplicate-emails.sql) | Easy |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | [SQL](./0183-customers-who-never-order/0183-customers-who-never-order.sql) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Rust](./0191-number-of-1-bits/0191-number-of-1-bits.rs) | Easy |
+| 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails) | [SQL](./0196-delete-duplicate-emails/0196-delete-duplicate-emails.sql) | Easy |
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | [Python](./0210-course-schedule-ii/0210-course-schedule-ii.py) | Medium |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | [Rust](./0231-power-of-two/0231-power-of-two.rs) | Easy |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Rust](./0238-product-of-array-except-self/0238-product-of-array-except-self.rs) | Medium |
