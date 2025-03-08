@@ -104,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 112 | [Path Sum](https://leetcode.com/problems/path-sum) | [Python](./0112-path-sum/0112-path-sum.py) | Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Python](./0118-pascals-triangle/0118-pascals-triangle.py) | Easy |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | [Rust](./0119-pascals-triangle-ii/0119-pascals-triangle-ii.rs) | Easy |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | [Python](./0121-best-time-to-buy-and-sell-stock/0121-best-time-to-buy-and-sell-stock.py) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number) | [Python](./0136-single-number/0136-single-number.py) | Easy |
 | 137 | [Single Number II](https://leetcode.com/problems/single-number-ii/) | [Python](./0137-single-number-ii/0137-single-number-ii.py) | Medium |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | [Python](./0141-linked-list-cycle/0141-linked-list-cycle.py) | Easy |
