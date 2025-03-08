@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii) | [Python](./0407-trapping-rain-water-ii/0407-trapping-rain-water-ii.py) | Hard |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [Rust](./0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.rs) | Medium |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | [SQL](./0511-game-play-analysis-i/0511-game-play-analysis-i.sql) | Easy |
+| 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [SQL](./0584-find-customer-referee/0584-find-customer-referee.sql) | Easy |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | [Rust](./0621-task-scheduler/0621-task-scheduler.rs) | Medium |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Rust](./0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.rs) | Easy |
 | 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | [Rust](./0791-custom-sort-string/0791-custom-sort-string.rs) | Medium |
