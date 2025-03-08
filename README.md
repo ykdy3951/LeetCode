@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 2161 | [Partition Array According to Given Pivot](https://leetcode.com/problems/partition-array-according-to-given-pivot) | [Python](./2161-partition-array-according-to-given-pivot/2161-partition-array-according-to-given-pivot.py) | Medium |
 | 2373 | [Largest Local Values in a Matrix](https://leetcode.com/problems/largest-local-values-in-a-matrix) | [Python](./2373-largest-local-values-in-a-matrix/2373-largest-local-values-in-a-matrix.py) | Easy |
 | 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer) | [Rust](./2485-find-the-pivot-integer/2485-find-the-pivot-integer.rs) | Easy |
+| 2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range) | [Python](./2523-closest-prime-numbers-in-range/2523-closest-prime-numbers-in-range.py) | Medium |
 | 2540 | [Minimum Common Value](https://leetcode.com/problems/minimum-common-value) | [Rust](./2540-minimum-common-value/2540-minimum-common-value.rs) | Easy |
 | 2570 | [Merge Two 2D Arrays by Summing Values](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values) | [Python](./2570-merge-two-2d-arrays-by-summing-values/2570-merge-two-2d-arrays-by-summing-values.py) | Easy |
 | 2579 | [Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells) | [Python](./2579-count-total-number-of-colored-cells/2579-count-total-number-of-colored-cells.py) | Medium |
