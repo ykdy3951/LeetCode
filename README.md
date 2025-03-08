@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i) | [SQL](./1068-product-sales-analysis-i/1068-product-sales-analysis-i.sql) | Easy |
 | 1075 | [Project Employees I](https://leetcode.com/problems/project-employees-i) | [SQL](./1075-project-employees-i/1075-project-employees-i.sql) | Easy |
 | 1084 | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii/) | [SQL](./1084-sales-analysis-iii/1084-sales-analysis-iii.sql) | Easy |
+| 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/description/) | [SQL](./1141-user-activity-for-the-past-30-days-i/1141-user-activity-for-the-past-30-days-i.sql) | Easy |
 | 1171 | [Remove Zero Sum Consecutive Nodes from Linked List](https://leetcode.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | [Rust](./1171-remove-zero-sum-consecutive-nodes-from-linked-list/1171-remove-zero-sum-consecutive-nodes-from-linked-list.rs) | Medium |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | [Rust](./1356-sort-integers-by-the-number-of-1-bits/1356-sort-integers-by-the-number-of-1-bits.rs) | Easy |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [Rust](./1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.rs) | Easy |
