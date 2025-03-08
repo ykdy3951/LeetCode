@@ -136,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | [SQL](./0511-game-play-analysis-i/0511-game-play-analysis-i.sql) | Easy |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [SQL](./0584-find-customer-referee/0584-find-customer-referee.sql) | Easy |
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | [SQL](./0586-customer-placing-the-largest-number-of-orders/0586-customer-placing-the-largest-number-of-orders.sql) | Easy |
+| 595 | [Big Countries](https://leetcode.com/problems/big-countries) | [SQL](./0595-big-countries/0595-big-countries.sql) | Easy |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | [Rust](./0621-task-scheduler/0621-task-scheduler.rs) | Medium |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Rust](./0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.rs) | Easy |
 | 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | [Rust](./0791-custom-sort-string/0791-custom-sort-string.rs) | Medium |
