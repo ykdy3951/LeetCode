@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement) | [SQL](./0610-triangle-judgement/0610-triangle-judgement.sql) | Easy |
 | 619 | [Biggest Single Number](https://leetcode.com/problems/biggest-single-number) | [SQL](./0619-biggest-single-number/0619-biggest-single-number.sql) | Easy |
 | 621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | [Rust](./0621-task-scheduler/0621-task-scheduler.rs) | Medium |
+| 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | [SQL](./0627-swap-salary/0627-swap-salary.sql) | Easy |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs) | [Rust](./0746-min-cost-climbing-stairs/0746-min-cost-climbing-stairs.rs) | Easy |
 | 791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | [Rust](./0791-custom-sort-string/0791-custom-sort-string.rs) | Medium |
 | 827 | [Making A Large Island](https://leetcode.com/problems/making-a-large-island) | [Python](./0827-making-a-large-island/0827-making-a-large-island.py) | Hard |
