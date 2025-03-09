@@ -161,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 1211 | [Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage) | [SQL](./1211-queries-quality-and-percentage/1211-queries-quality-and-percentage.sql) | Easy |
 | 1251 | [Average Selling Price](https://leetcode.com/problems/average-selling-price) | [SQL](./1251-average-selling-price/1251-average-selling-price.sql) | Easy |
 | 1280 | [Students and Examinations](https://leetcode.com/problems/students-and-examinations) | [SQL](./1280-students-and-examinations/1280-students-and-examinations.sql) | Easy |
+| 1327 | [List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period) | [SQL](./1327-list-the-products-ordered-in-a-period/1327-list-the-products-ordered-in-a-period.sql) | Easy |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | [Rust](./1356-sort-integers-by-the-number-of-1-bits/1356-sort-integers-by-the-number-of-1-bits.rs) | Easy |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [Rust](./1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.rs) | Easy |
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three) | [Python](./1780-check-if-number-is-a-sum-of-powers-of-three/1780-check-if-number-is-a-sum-of-powers-of-three.py) | Medium |
