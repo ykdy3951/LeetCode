@@ -165,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | [Rust](./1356-sort-integers-by-the-number-of-1-bits/1356-sort-integers-by-the-number-of-1-bits.rs) | Easy |
 | 1378 | [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier) | [SQL](./1378-replace-employee-id-with-the-unique-identifier/1378-replace-employee-id-with-the-unique-identifier.sql) | Easy |
 | 1407 | [Top Travellers](https://leetcode.com/problems/top-travellers) | [SQL](./1407-top-travellers/1407-top-travellers.sql) | Easy |
+| 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date) | [SQL](./1484-group-sold-products-by-the-date/1484-group-sold-products-by-the-date.sql) | Easy |
 | 1541 | [Top Travellers](https://leetcode.com/problems/top-travellers/) | [SQL](./1541-top-travellers/1541-top-travellers.sql) | Easy |
 | 1662 | [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent) | [Rust](./1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.rs) | Easy |
 | 1780 | [Check if Number is a Sum of Powers of Three](https://leetcode.com/problems/check-if-number-is-a-sum-of-powers-of-three) | [Python](./1780-check-if-number-is-a-sum-of-powers-of-three/1780-check-if-number-is-a-sum-of-powers-of-three.py) | Medium |
