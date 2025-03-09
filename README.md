@@ -172,4 +172,5 @@ Collection of LeetCode questions to ace the coding interview!
 | 2864 | [Maximum Odd Binary Number](https://leetcode.com/problems/maximum-odd-binary-number) | [Rust](./2864-maximum-odd-binary-number/2864-maximum-odd-binary-number.rs) | Easy |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values) | [Python](./2965-find-missing-and-repeated-values/2965-find-missing-and-repeated-values.py) | Easy |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | [Rust](./3005-count-elements-with-maximum-frequency/3005-count-elements-with-maximum-frequency.rs) | Easy |
+| 3208 | [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii) | [Python](./3208-alternating-groups-ii/3208-alternating-groups-ii.py) | Medium |
 | 3235 | [Check if the Rectangle Corner Is Reachable](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable) | [Python](./3235-check-if-the-rectangle-corner-is-reachable/3235-check-if-the-rectangle-corner-is-reachable.py) | Hard |
