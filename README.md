@@ -134,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | [Python](./0210-course-schedule-ii/0210-course-schedule-ii.py) | Medium |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two) | [Rust](./0231-power-of-two/0231-power-of-two.rs) | Easy |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | [Rust](./0238-product-of-array-except-self/0238-product-of-array-except-self.rs) | Medium |
+| 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users) | [SQL](./0262-trips-and-users/0262-trips-and-users.sql) | Hard |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number) | [Rust](./0268-missing-number/0268-missing-number.rs) | Easy |
 | 342 | [Power of Four](https://leetcode.com/problems/power-of-four) | [Rust](./0342-power-of-four/0342-power-of-four.rs) | Easy |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | [Rust](./0349-intersection-of-two-arrays/0349-intersection-of-two-arrays.rs) | Easy |
