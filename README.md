@@ -141,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 407 | [Trapping Rain Water II](https://leetcode.com/problems/trapping-rain-water-ii) | [Python](./0407-trapping-rain-water-ii/0407-trapping-rain-water-ii.py) | Hard |
 | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons) | [Rust](./0452-minimum-number-of-arrows-to-burst-balloons/0452-minimum-number-of-arrows-to-burst-balloons.rs) | Medium |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i) | [SQL](./0511-game-play-analysis-i/0511-game-play-analysis-i.sql) | Easy |
+| 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv) | [SQL](./0550-game-play-analysis-iv/0550-game-play-analysis-iv.sql) | Medium |
 | 584 | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee) | [SQL](./0584-find-customer-referee/0584-find-customer-referee.sql) | Easy |
 | 586 | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders) | [SQL](./0586-customer-placing-the-largest-number-of-orders/0586-customer-placing-the-largest-number-of-orders.sql) | Easy |
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries) | [SQL](./0595-big-countries/0595-big-countries.sql) | Easy |
