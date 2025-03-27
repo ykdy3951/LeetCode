@@ -123,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [SQL](./0176-second-highest-salary/0176-second-highest-salary.sql) | Medium |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary) | [SQL](./0177-nth-highest-salary/0177-nth-highest-salary.sql) | Medium |
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | [SQL](./0178-rank-scores/0178-rank-scores.sql) | Medium |
+| 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers) | [SQL](./0180-consecutive-numbers/0180-consecutive-numbers.sql) | Medium |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [SQL](./0182-duplicate-emails/0182-duplicate-emails.sql) | Easy |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | [SQL](./0183-customers-who-never-order/0183-customers-who-never-order.sql) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Rust](./0191-number-of-1-bits/0191-number-of-1-bits.rs) | Easy |
