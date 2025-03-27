@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview!
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title) | [Python](./0168-excel-sheet-column-title/0168-excel-sheet-column-title.py) | Easy |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element) | [Rust](./0169-majority-element/0169-majority-element.rs) | Easy |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number) | [Python](./0171-excel-sheet-column-number/0171-excel-sheet-column-number.py) | Easy |
+| 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | [SQL](./0176-second-highest-salary/0176-second-highest-salary.sql) | Medium |
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails) | [SQL](./0182-duplicate-emails/0182-duplicate-emails.sql) | Easy |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order) | [SQL](./0183-customers-who-never-order/0183-customers-who-never-order.sql) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | [Rust](./0191-number-of-1-bits/0191-number-of-1-bits.rs) | Easy |
